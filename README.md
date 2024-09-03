@@ -1,4 +1,4 @@
-# Music Store Database Analysis
+# Music Store Data Analysis
 
 ## Overview
 This project involves analyzing the sales data of a music store using MySQL. The database is structured into multiple tables, each representing different entities such as albums, artists, customers, and sales. The SQL scripts provided can be used to recreate the database and perform various analyses to extract business insights.
